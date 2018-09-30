@@ -1,7 +1,8 @@
 # gopro-photo-of-day
-Python script to download gopro photo of day and set as wallpaper. Currently only for ubuntu.
+Python script to download gopro photo of day and set as wallpaper. (original from https://github.com/iarvind/gopro-photo-of-day, changed to my wants) 
+
 Usage:
 ```sh
 python3 goProPhotoOfDay.py x
 ```
-(where x is index of day from today. default is 0 or today)
+(where x is the number of pics you want to retrieve)
